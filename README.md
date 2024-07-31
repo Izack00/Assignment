@@ -1,3 +1,3 @@
 # Information
 
-This is a assignment for Python class
+This is an assignment for Python class
